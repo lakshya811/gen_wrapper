@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "gen-wrapper"
-version = "0.1.0"
+version = "0.1.1"
 description = "A lightweight wrapper for multiple LLM providers with optional LangChain integrations."
 readme = "README.md"
 requires-python = ">=3.9"
@@ -65,10 +65,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-org/gen_wrapper"
-Documentation = "https://github.com/your-org/gen_wrapper#readme"
-Source = "https://github.com/your-org/gen_wrapper"
-Issues = "https://github.com/your-org/gen_wrapper/issues"
+Homepage = "https://github.com/lakshya811/gen_wrapper"
+Documentation = "https://github.com/lakshya811/gen_wrapper#readme"
+Source = "https://github.com/lakshya811/gen_wrapper"
+Issues = "https://github.com/lakshya811/gen_wrapper/issues"
 
 [project.scripts]
 llm-cli = "gen_wrapper.llm_cli:main"
