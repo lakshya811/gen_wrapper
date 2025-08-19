@@ -59,7 +59,7 @@ llm-cli --provider openai --prompt "Hello world"
 
 ## Links
 
-- Source, docs, and issues: https://github.com/your-username/gen_wrapper
+- Source, docs, and issues: https://github.com/lakshya811/gen_wrapper
 - PyPI: https://pypi.org/project/gen-wrapper/
 
 ## License
